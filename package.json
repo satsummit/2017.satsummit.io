@@ -4,7 +4,7 @@
   "description": "Satellite data for global development",
   "repository": {
     "type": "git",
-    "url": "https://github.com/developmentseed/2017.satsummit.io.git"
+    "url": "https://github.com/satsummit/2017.satsummit.io.git"
   },
   "author": {
     "name": "Development Seed",
@@ -12,7 +12,7 @@
   },
   "license": "BSD 3-Clause",
   "bugs": {
-    "url": "https://github.com/developmentseed/2017.satsummit.io./issues"
+    "url": "https://github.com/satsummit/2017.satsummit.io./issues"
   },
   "homepage": "http://2017.satsummit.io/",
   "main": "assets/scripts",
