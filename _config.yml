@@ -4,7 +4,7 @@ exclude:
   - assets/scripts
   - assets/styles
   - assets/graphics/collecticons
-baseurl: https://2017.satsummit.io
+baseurl: //2017.satsummit.io
 permalink: /insights/:year/:month/:day/:title/
 kramdown:
   input: GFM
